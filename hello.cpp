@@ -11,7 +11,7 @@ int main()
 { 
     // prints hello world 
     cout<<"Projet AOI \n";
-    cout<<"Maintenant sur Git\n"; 
+    cout<<"Maintenant sur Git Test\n"; 
       
     return 0; 
 } 
