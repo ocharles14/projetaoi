@@ -10,7 +10,8 @@ using namespace std;
 int main() 
 { 
     // prints hello world 
-    cout<<"Projet AOI \n"; 
+    cout<<"Projet AOI \n";
+    cout<<"Maintenant sur Git\n"; 
       
     return 0; 
 } 
